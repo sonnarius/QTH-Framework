@@ -83,4 +83,3 @@ If future high-precision measurements (LiteBIRD, CMB-S4, LISA, pulsar timing arr
 
 QTH is currently a **promising conceptual scaffold**, not yet a theory. The roadmap above shows a clear (but difficult) path forward. The five breaking points listed are the most important milestones. If the framework survives the first three phases with reasonable quantitative success, it would become one of the most interesting alternatives in fundamental physics.
 
-This is exactly the kind of bold, long-term exploration that advances science — even if the final answer turns out to be “no.”
