@@ -1,6 +1,6 @@
 **Mathematical Development Roadmap for Quantum Toroidal Harmonics (QTH)**
 
-### 1. Executive Summary
+### 1. Summary
 
 Quantum Toroidal Harmonics (QTH) proposes that all particles, forces, and gravity emerge from quantized toroidal electromagnetic structures (Photonic Toroids) in a chiral vacuum. While the conceptual picture is elegant and connects several real observations, it currently lacks a rigorous mathematical foundation.
 
