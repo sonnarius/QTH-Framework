@@ -42,7 +42,7 @@ If the derived metric does **not** match all current precision tests of General 
 
 #### Phase 3: Particle Spectrum and Masses
 **Key Tasks:**
-- Derive the mass hierarchy (electron << muon << proton << top quark) from harmonic content and toroidal winding numbers.
+- Derive the observed mass spectrum of leptons and hadrons (including the proton-to-electron mass ratio and the heavy top quark) from toroidal harmonic content and winding numbers, treating quarks as internal resonant modes within hadrons.
 - Explain why there are exactly three generations of fermions.
 - Calculate precise values for particle masses and mixing angles from toroidal parameters.
 
