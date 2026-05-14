@@ -1,52 +1,61 @@
 # Quantum Toroidal Harmonics (QTH)
 
-**An exploratory geometric framework** exploring toroidal electromagnetic structures (Photonic Toroids), a global chiral vacuum twist, emergent gravity via permittivity gradients, and connections between cosmic observations.
+**An exploratory geometric framework** in which all fundamental particles are understood as self-confined toroidal electromagnetic structures ("Photonic Toroids").
 
-> **Important Disclaimer**  
-> This is a **speculative conceptual project**. It is inspired by the toroidal models of Williamson & van der Mark and Robinson's sub-quantum gravity ideas. It is **not** peer-reviewed physics and does **not** claim to replace the Standard Model or General Relativity. It is shared for open discussion, criticism, and collaborative exploration only.
+## ⚠️ Important Disclaimer
+
+This is a **speculative conceptual model** inspired by the toroidal electron work of Williamson & van der Mark and the sub-quantum gravity ideas of Vivian Robinson. 
+
+It is **not** peer-reviewed physics and does **not** claim to replace the Standard Model or General Relativity. It is shared for discussion, criticism, and collaborative development only.
 
 ## What is QTH?
 
-QTH proposes that fundamental particles can be understood as self-confined toroidal electromagnetic energy flows ("Photonic Toroids"). From this geometric foundation it attempts to offer intuitive explanations for:
+In the QTH framework, everything — from electrons and protons to gravity and cosmic structure — emerges from the dynamics of **Photonic Toroids**: stable, double-loop toroidal configurations of electromagnetic energy circulating at the speed of light.
 
-- Matter-antimatter asymmetry
-- Galaxy spin handedness
-- Cosmic birefringence
-- Gravity without singularities
-- The emergence of space and time from vacuum properties
+Key ideas include:
+- Particles as quantized toroidal EM structures with specific harmonic resonances
+- A global chiral twist in the vacuum that biases matter over antimatter
+- Gravity as an emergent refractive effect caused by local permittivity changes
+- A unified geometric picture connecting sub-quantum structure with cosmological observations
 
 ## Documentation Structure
 
-The documentation is organized thematically:
+The repository is organized into four main sections:
 
-- **[Cheat Sheet](docs/cheat-sheet.md)** — Quick reference overview
-
-### 1. Particles and Particle Interactions
-- [01. Photonic Toroids (Williamson & van der Mark model)](docs/1-particles-and-interactions/01-photonic-toroids.md)
-- *(More documents coming soon: Electrons, Protons, Neutrons, Re-envisioning the Standard Model, Nuclear interactions, Atoms & Chemical Bonds)*
+### 1. Particles and Interactions
+- [01-photonic-toroids.md](docs/1-particles-and-interactions/01-photonic-toroids.md) — Foundational model (Williamson & van der Mark)
+- [02-electrons-protons-neutrons.md](docs/1-particles-and-interactions/02-electrons-protons-neutrons.md)
+- [03-muons-neutrinos.md](docs/1-particles-and-interactions/03-muons-neutrinos.md)
+- [04-standard-model-reenvisioned.md](docs/1-particles-and-interactions/04-standard-model-reenvisioned.md)
 
 ### 2. Gravitational Interactions
-- *(Coming soon: Emergent Gravity, Robinson Model, Time Dilation, Neutron Stars, Black Holes as super-dense toroidal objects)*
+- [01-emergent-gravity.md](docs/2-gravitational-interactions/01-emergent-gravity.md)
+- [02-robinson-model.md](docs/2-gravitational-interactions/02-robinson-model.md)
+- [03-time-dilation.md](docs/2-gravitational-interactions/03-time-dilation.md)
 
-### 3. Properties of the Universe
-- *(Coming soon: Chiral Twist, Matter-Antimatter Asymmetry, Scaling with Expansion, Spin at every Scale, ε₀-μ₀-α)*
+### 3. General Cosmology
+- [01-chiral-twist.md](docs/3-general-cosmology/01-chiral-twist.md)
+- [02-scaling-with-expansion.md](docs/3-general-cosmology/02-scaling-with-expansion.md)
+- [03-matter-antimatter-asymmetry.md](docs/3-general-cosmology/03-matter-antimatter-asymmetry.md)
 
 ### 4. Additional Phenomena
-- *(Coming soon: NMR, Fission/Fusion, Gamma polarization, etc.)*
+*(To be developed — NMR, fission/fusion, gamma polarization, etc.)*
+
+## Quick Start
+
+For a fast overview, read the **[Cheat Sheet](docs/cheat-sheet.md)**.
 
 ## Current Status
 
-This repository is in early stages. Most content is currently at the level of conceptual synthesis and order-of-magnitude reasoning.
-
-We welcome thoughtful discussion and constructive criticism.
-
-## License
-
-Content is shared under [Creative Commons Attribution-ShareAlike 4.0](LICENSE).
+QTH is currently an **exploratory conceptual framework**. While it offers an elegant geometric picture that connects several real observational puzzles (cosmic birefringence, galaxy spin asymmetry, matter asymmetry, and singularity-free gravity), it remains speculative and requires substantial mathematical development.
 
 ## Contributing
 
-Please open an Issue or start a Discussion if you have ideas, questions, or critiques.
+Suggestions, corrections, and constructive criticism are very welcome. Please open an issue or submit a pull request.
+
+## License
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ---
 
