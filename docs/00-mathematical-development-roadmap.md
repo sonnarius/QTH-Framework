@@ -21,7 +21,7 @@ To derive the Standard Model + General Relativity as **effective low-energy desc
 
 **Status**: Promising but qualitative only.
 
-#### Phase 1: Mathematical Formalization of the Photonic Toroid (1–3 years)
+#### Phase 1: Mathematical Formalization of the Photonic Toroid
 **Key Tasks:**
 - Develop a rigorous Lagrangian or action for a single Photonic Toroid (double-loop topology + tumble).
 - Quantize the toroidal structure (find proper Hilbert space and operators).
@@ -31,7 +31,7 @@ To derive the Standard Model + General Relativity as **effective low-energy desc
 **Critical Breaking Point #1**:
 If the toroidal quantization does **not** naturally produce spin-½ and the correct g-factor (within 1% of experimental value), the framework is likely broken.
 
-#### Phase 2: Derivation of the Robinson Metric (2–4 years)
+#### Phase 2: Derivation of the Robinson Metric
 **Key Tasks:**
 - Derive the redshift metric z = e^(α/2r) – 1 from the collective effect of many Photonic Toroids on the vacuum permittivity.
 - Show how local δϵ gradients produce both attraction and the hollow toroidal core behavior.
@@ -40,7 +40,7 @@ If the toroidal quantization does **not** naturally produce spin-½ and the corr
 **Critical Breaking Point #2**:
 If the derived metric does **not** match all current precision tests of General Relativity (perihelion precession, light deflection, gravitational redshift, etc.) at the 0.1% level or better, the model fails.
 
-#### Phase 3: Particle Spectrum and Masses (3–6 years)
+#### Phase 3: Particle Spectrum and Masses
 **Key Tasks:**
 - Derive the mass hierarchy (electron << muon << proton << top quark) from harmonic content and toroidal winding numbers.
 - Explain why there are exactly three generations of fermions.
@@ -49,7 +49,7 @@ If the derived metric does **not** match all current precision tests of General 
 **Critical Breaking Point #3**:
 If the model cannot reproduce the observed particle mass ratios (especially m_p / m_e ≈ 1836) to within ~10% using a small number of geometric parameters, the framework is probably not viable.
 
-#### Phase 4: Emergence of the Standard Model (5–10 years)
+#### Phase 4: Emergence of the Standard Model
 **Key Tasks:**
 - Show how the Standard Model Lagrangian (QED + QCD + Electroweak) emerges as an effective field theory at energies << 1 TeV.
 - Derive gauge symmetries and coupling constants from toroidal interactions.
@@ -58,7 +58,7 @@ If the model cannot reproduce the observed particle mass ratios (especially m_p 
 **Critical Breaking Point #4**:
 If the low-energy effective theory does **not** reproduce the precision predictions of the Standard Model (e.g., anomalous magnetic moments, Lamb shift, Z-boson width) to current experimental accuracy, the framework breaks.
 
-#### Phase 5: Cosmological Predictions and Tests (Ongoing)
+#### Phase 5: Cosmological Predictions and Tests
 **Key Tasks:**
 - Make quantitative predictions for time-variation of cosmic birefringence.
 - Predict chiral signatures in gravitational waves.
@@ -78,15 +78,8 @@ If future high-precision measurements (LiteBIRD, CMB-S4, LISA, pulsar timing arr
 | 4 | 4     | Low-energy limit fails to match Standard Model precision | Very High             |
 | 5 | 5     | Future observations rule out predicted birefringence or chiral GW signals | Definitive            |
 
-### 5. Estimated Timeline (Optimistic)
 
-- Phase 1–2: 3–5 years (foundational mathematics)
-- Phase 3–4: 5–10 years (particle spectrum + SM emergence)
-- Phase 5: Ongoing (cosmological tests)
-
-**Total realistic timeline for serious viability**: 10–20 years with dedicated effort.
-
-### 6. Conclusion
+### 5. Conclusion
 
 QTH is currently a **promising conceptual scaffold**, not yet a theory. The roadmap above shows a clear (but difficult) path forward. The five breaking points listed are the most important milestones. If the framework survives the first three phases with reasonable quantitative success, it would become one of the most interesting alternatives in fundamental physics.
 
