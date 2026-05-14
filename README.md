@@ -2,7 +2,7 @@
 
 **An exploratory geometric framework** in which all fundamental particles are understood as self-confined toroidal electromagnetic structures ("Photonic Toroids").
 
-## ⚠️ Important Disclaimer
+## Important Disclaimer
 
 This is a **speculative conceptual model** inspired by the toroidal electron work of Williamson & van der Mark and the sub-quantum gravity ideas of Vivian Robinson. 
 
