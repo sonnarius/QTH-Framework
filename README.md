@@ -10,7 +10,7 @@ It is **not** peer-reviewed physics and does **not** claim to replace the Standa
 
 ## What is QTH?
 
-In the QTH framework, everything — from electrons and protons to gravity and cosmic structure — emerges from the dynamics of **Photonic Toroids**: stable, double-loop toroidal configurations of electromagnetic energy circulating at the speed of light.
+In the QTH framework, everything — from electrons and protons to gravity and cosmic structure — emerges from the dynamics of **Photonic Toroids**: stable, double-loop toroidal configurations of electromagnetic energy circulating at the speed of light. The global chiral twist in the vacuum and local permittivity gradients give rise to matter asymmetry, spin, gravity, and large-scale cosmological observations.
 
 Key ideas include:
 - Particles as quantized toroidal EM structures with specific harmonic resonances
@@ -18,40 +18,28 @@ Key ideas include:
 - Gravity as an emergent refractive effect caused by local permittivity changes
 - A unified geometric picture connecting sub-quantum structure with cosmological observations
 
-## Documentation Structure
+## Key Documents
 
-The repository is organized into four main sections:
-
-### 1. Particles and Interactions
-- [01-photonic-toroids.md](docs/1-particles-and-interactions/01-photonic-toroids.md) — Foundational model (Williamson & van der Mark)
-- [02-electrons-protons-neutrons.md](docs/1-particles-and-interactions/02-electrons-protons-neutrons.md)
-- [03-muons-neutrinos.md](docs/1-particles-and-interactions/03-muons-neutrinos.md)
-- [04-standard-model-reenvisioned.md](docs/1-particles-and-interactions/04-standard-model-reenvisioned.md)
-
-### 2. Gravitational Interactions
-- [01-emergent-gravity.md](docs/2-gravitational-interactions/01-emergent-gravity.md)
-- [02-robinson-model.md](docs/2-gravitational-interactions/02-robinson-model.md)
-- [03-time-dilation.md](docs/2-gravitational-interactions/03-time-dilation.md)
-
-### 3. General Cosmology
-- [01-chiral-twist.md](docs/3-general-cosmology/01-chiral-twist.md)
-- [02-scaling-with-expansion.md](docs/3-general-cosmology/02-scaling-with-expansion.md)
-- [03-matter-antimatter-asymmetry.md](docs/3-general-cosmology/03-matter-antimatter-asymmetry.md)
-
-### 4. Additional Phenomena
-*(To be developed — NMR, fission/fusion, gamma polarization, etc.)*
+| Section                        | Description                                                  | Link |
+|--------------------------------|--------------------------------------------------------------|------|
+| Cheat Sheet                    | Compact overview of the entire framework                     | [cheat-sheet.md](docs/cheat-sheet.md) |
+| **Mathematical Roadmap**       | **Critical path to turn QTH into a real theory**             | [00-mathematical-development-roadmap.md](docs/00-mathematical-development-roadmap.md) |
+| Particles & Interactions       | Photonic Toroids, leptons, hadrons, Standard Model re-interpretation | [1-particles-and-interactions/](docs/1-particles-and-interactions/) |
+| Gravitational Interactions     | Emergent gravity (Robinson model), time dilation             | [2-gravitational-interactions/](docs/2-gravitational-interactions/) |
+| General Cosmology              | Chiral twist, scaling with expansion, matter asymmetry       | [3-general-cosmology/](docs/3-general-cosmology/) |
 
 ## Quick Start
 
-For a fast overview, read the **[Cheat Sheet](docs/cheat-sheet.md)**.
-
+- **[Cheat Sheet](docs/cheat-sheet.md)** — Start here for a compact overview
+- **[Mathematical Development Roadmap](docs/00-mathematical-development-roadmap.md)** — **Most important document** if you want to understand how this framework could become a serious theory
+- 
 ## Current Status
 
-QTH is currently an **exploratory conceptual framework**. While it offers an elegant geometric picture that connects several real observational puzzles (cosmic birefringence, galaxy spin asymmetry, matter asymmetry, and singularity-free gravity), it remains speculative and requires substantial mathematical development.
+QTH is currently a **promising conceptual scaffold**, not yet a complete physical theory. The [Mathematical Development Roadmap](docs/00-mathematical-development-roadmap.md) outlines the rigorous steps needed to turn this framework into a competitive alternative, along with clear breaking points that would falsify it.
 
 ## Contributing
 
-Suggestions, corrections, and constructive criticism are very welcome. Please open an issue or submit a pull request.
+Suggestions, corrections, constructive criticism, mathematical contributions and critical analysis are very welcome. Please open an issue or submit a pull request. 
 
 ## License
 
