@@ -1,5 +1,15 @@
-**Quantum Toroidal Harmonics (QTH) Cheat Sheet**
+**Quantum Toroidal Harmonics (QTH) Cheat Sheet**  
 (Exploratory geometric framework)
+
+### Documentation Structure
+
+The full documentation is organized into the following sections:
+
+- **1-particles-and-interactions/**
+- **2-gravitational-interactions/**
+- **3-general-cosmology/**
+
+Start with this cheat sheet for a quick overview, then explore the detailed documents in each folder.
 
 ### Key Terminology
 - **Photonic Toroid** (also called EM Toroid): A self-confined, double-loop toroidal structure made of electromagnetic energy (photons) circulating at speed *c*.
@@ -26,7 +36,7 @@ This global twist is the same mechanism proposed to seed the early matter-antima
 The observed baryon asymmetry (η_b ≈ 6 × 10^{-10}) arises naturally in two stages driven by the chiral twist:
 
 - **Stage 1** (very early, high temperature ~150 MeV): The much stronger early chiral twist preferentially stabilizes complex proton-type Photonic Toroids over their antimatter counterparts.
-- **Stage 2** (later, ~0.5 MeV): The small net excess of protons polarizes the surrounding electromagnetic vacuum, which then biases the simpler electron-type Photonic Toroids toward negative charge, automatically restoring overall charge neutrality.
+- **Stage 2** (later, ~0.5 MeV): The small net excess of protons polarize the surrounding electromagnetic vacuum, which then biases the simpler electron-type Photonic Toroids toward negative charge, automatically restoring overall charge neutrality.
 
 ### 4. Scaling with Cosmic Expansion
 Both the chiral twist **Ω_χ** and the effective gravitational strength (via permittivity shifts δϵ/ε₀) dilute proportionally to baryon density as **∝ 1/a³**.
@@ -37,13 +47,13 @@ Both the chiral twist **Ω_χ** and the effective gravitational strength (via pe
 - Today (a = 1): Very weak residual twist → observed CMB birefringence of ~0.215°.
 
 ### 5. Emergent Gravity (Robinson Model)
-Gravity is not a fundamental force but emerges from local changes in vacuum permittivity caused by Photonic Toroids.
+Proton/neutron Photonic Toroids raise local permittivity **ε_m = ε₀ + δϵ** → refractive index gradient.
 
-- Dense clusters of proton/neutron Photonic Toroids raise the local permittivity (ε_m = ε₀ + δϵ).
-- This creates a radial gradient in refractive index.
-- Photons and all matter (being made of confined photons) refract toward regions of higher ε → the attractive effect we call gravity.
-- The exact metric is **z = e^{α/2r} – 1** (where α ∝ total number of nucleons). In the weak-field limit this recovers Newton’s law and the leading post-Newtonian corrections of General Relativity.
-- Gravity reaches a maximum at r = α/2 and then weakens inside that radius → no singularities and naturally hollow toroidal cores.
+- Gravity = refraction toward higher ε.
+- Metric: **z = e^{α/2r} – 1** (α ∝ total nucleons; weak-field → Newton + Einstein corrections).
+- No singularities — gravity peaks then weakens inside r = α/2 → hollow toroidal cores.
+
+**Note on size vs interaction:** The physical size of a Photonic Toroid is given by its Compton wavelength and is inversely proportional to mass. However, the **effective scattering cross section** can be significantly larger for more complex toroids (such as protons) due to their rich internal harmonic structure. See `05-mass-compton-wavelength-cross-section.md` for a detailed explanation.
 
 ### 6. Time Dilation from Early Strong Gravity
 In the hot, dense early universe the much larger permittivity shifts (δϵ) created a stronger global gravitational potential. This caused significant gravitational time dilation: clocks ran much slower compared with today’s reference frame. The extended proper time available during this epoch gave the chiral twist sufficient “room” to establish the observed matter asymmetry.
