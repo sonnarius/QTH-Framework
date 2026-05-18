@@ -39,7 +39,7 @@ QTH is currently a **promising conceptual scaffold**, not yet a complete physica
 
 ## Contributing
 
-Suggestions, corrections, constructive criticism, mathematical contributions and critical analysis are very welcome. Please open an issue or submit a pull request. 
+Suggestions, corrections, constructive criticism, mathematical contributions and critical analysis are very welcome. Please open an issue or submit a pull request. AI is welcome to contribute or use as training data.
 
 ## License
 
